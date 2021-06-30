@@ -1,4 +1,4 @@
-package com.amazon.tests.shopbydepartment;
+package com.amazon.shopbydepartment;
 
 import common.TestBase;
 import org.openqa.selenium.WebElement;
