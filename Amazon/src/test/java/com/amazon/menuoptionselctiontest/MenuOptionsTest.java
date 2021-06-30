@@ -1,6 +1,6 @@
 package com.amazon.menuoptionselctiontest;
 
-import com.amazon.MenuoptionSelection.MenuOption;g
+import com.amazon.MenuoptionSelection.MenuOption;
 import common.TestBase;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;

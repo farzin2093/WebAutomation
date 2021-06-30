@@ -6,15 +6,17 @@
     <parameter name="envName" value="saucelabs"/>
     <parameter name="browser" value="chrome"/>
     <parameter name="browserVersion" value="77.0"/>
-    <parameter name="url" value="https://www.amazon.com/"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
     <parameter name="platform" value="windows"/>
 
 
-    <test name="Amazon automation test">
+    <test name="FaceBook automation test">
 
         <classes>
-      <class name="com.amazon.tests.addtocarttest.ChangeQuantityFromAddToCartTest"></class>
-
+         <class name="com.facebook.loginpagetest.CommentsOnPostTest"></class>
         </classes>
     </test>
+
+
+
 </suite>

@@ -1,5 +1,6 @@
 package com.amazon.searchitemtest;
 
+
 import com.amazon.searchitem.SearchItemFromDatabase;
 import common.TestBase;
 import org.apache.log4j.Logger;

@@ -1,7 +1,7 @@
 package com.amazon.tests.shopbydepartmenttest;
 
 
-import com.amazon.tests.shopbydepartment.ShopByDepartment;
+import com.amazon.shopbydepartment.ShopByDepartment;
 import common.TestBase;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
