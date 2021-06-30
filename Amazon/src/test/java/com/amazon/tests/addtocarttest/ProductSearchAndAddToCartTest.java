@@ -1,7 +1,6 @@
 package com.amazon.tests.addtocarttest;
 
 
-import com.amazon.pages.addtocartpage.ProductSearchAndAddToCart;
 import common.TestBase;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.support.PageFactory;
