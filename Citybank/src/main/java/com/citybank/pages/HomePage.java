@@ -1,4 +1,4 @@
-package citybank.pages;
+package com.citybank.pages;
 
 import common.TestBase;
 import org.openqa.selenium.WebElement;

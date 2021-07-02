@@ -1,4 +1,4 @@
-package citybank.loginpage;
+package com.citybank.loginpage;
 
 import common.TestBase;
 import org.openqa.selenium.WebElement;
